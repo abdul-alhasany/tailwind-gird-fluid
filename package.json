@@ -1,0 +1,28 @@
+{
+  "name": "@kalimahapps/tailwind-grid-fluid",
+  "version": "1.0.0",
+  "description": "Tailwind plugin to add auto-fit and auto-fill to grid classes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/kalimah-apps/tailwind-gird-fluid/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kalimah-apps/tailwind-gird-fluid.git"
+  },
+  "homepage": "https://github.com/kalimah-apps/tailwind-gird-fluid",
+  "keywords": [
+    "tailwind",
+    "grid",
+    "auto-fit",
+    "auto-fill"
+  ],
+  "author": "khr2003",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
